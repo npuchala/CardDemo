@@ -4,7 +4,7 @@ var text =`
   <div class="card">
     <div class="row">
       <div class="col-md-12 col-sm-12 col-5 pt-1 pb-1">
-        <img src="https://hookagency.com/wp-content/webpc-passthru.php?src=https://hookagency.com/wp-content/uploads/2018/05/gradient-background.jpeg&nocache=1" class="card-img-top" alt="...">
+        <img src="imgs/gradient.png" class="card-img-top" alt="...">
       </div>
       <div class="col pt-1 pb-0">
         <div class="row">
